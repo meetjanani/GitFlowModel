@@ -9,6 +9,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // Branch feature_2 Commit 1
+
+        // Branch Feature 1 Commit 1
+
         // Branch Feature 1 Commit 1
     }
 }
